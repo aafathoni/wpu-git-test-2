@@ -1,3 +1,4 @@
 print("Hello Word")
 print("Apa Kabar")
-print("Hallo")
+print("Hallo")  
+print("ABC")  
